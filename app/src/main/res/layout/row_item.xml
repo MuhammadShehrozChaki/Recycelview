@@ -22,7 +22,7 @@
             xmlns:app="http://schemas.android.com/apk/res-auto"
             android:id="@+id/image"
             android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_height="70dp"
             android:src="@drawable/bg"
             android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
@@ -32,9 +32,9 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="40dp"
             android:layout_gravity="center"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="50dp"
             android:textSize="26dp"
             android:padding="5dp"
             android:textColor="#363c3f"
